@@ -16,6 +16,7 @@ Atualmente, as vendas são registradas de forma manual (papel), onde um único i
 ## Proposta
 A proposta é oferecer um cardápio eletrônico para otimizar a velocidade de atendimento, evitar trabalho manual sobre a anotação dos pedidos e melhorar a experiência do cliente com o estabelecimento.
 
+
 ## Script do Projeto
 Script do cardápio eletrônico
 ![image](https://github.com/user-attachments/assets/3ac20fff-df4e-4604-bc64-20108eeb9dac)
@@ -40,13 +41,5 @@ Script do cardápio eletrônico
 ### mensagem de erro caso a forma de pagamento seja inválida
 
 ![image](https://github.com/user-attachments/assets/af5eae13-771f-4eee-b93c-e0bac700ba80)
-
-
-
-
-
-
-
-
 
 
