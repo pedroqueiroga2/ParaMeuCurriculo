@@ -16,11 +16,30 @@ Atualmente, as vendas são registradas de forma manual (papel), onde um único i
 ## Proposta
 A proposta é oferecer um cardápio eletrônico para otimizar a velocidade de atendimento, evitar trabalho manual sobre a anotação dos pedidos e melhorar a experiência do cliente com o estabelecimento.
 
-## Projeto
 
-Até o presente momento, esse é o script(Incompleto) do projeto
+## Script do Projeto
+Script do cardápio eletrônico
+![image](https://github.com/user-attachments/assets/3ac20fff-df4e-4604-bc64-20108eeb9dac)
+![image](https://github.com/user-attachments/assets/6b9f91f4-e06e-433a-94a9-74af091b07a7)
+![image](https://github.com/user-attachments/assets/3a8af84f-88c0-4203-97cf-75a6c10c2da6)
 
-![image](https://github.com/user-attachments/assets/b6af9725-d098-4128-b3af-e7dd5f4ce521)
+## Projeto 
+### execução do projeto;
 
-com o cardápio moderado e de forma fictícia, essa é a primeira parte do projeto.
+![image](https://github.com/user-attachments/assets/65452b8c-22e8-41dc-99e9-f6b763608f0c)
+
+### caso o cliente não queira realizar o pedido.
+
+![image](https://github.com/user-attachments/assets/1a3ded37-6677-4a37-81ec-301d9e3b9840)
+
+### mensagem de erro caso o lanche ou a bebida não exista
+
+![image](https://github.com/user-attachments/assets/291ec752-9878-491e-b972-e25144272c38)
+
+![image](https://github.com/user-attachments/assets/db7724b6-ed37-4fce-ad57-026e02d87d06)
+
+### mensagem de erro caso a forma de pagamento seja inválida
+
+![image](https://github.com/user-attachments/assets/af5eae13-771f-4eee-b93c-e0bac700ba80)
+
 
